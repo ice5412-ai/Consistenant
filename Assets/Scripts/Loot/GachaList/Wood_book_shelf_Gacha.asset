@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a7f9e3dbedaa77468954c406d8faf14, type: 3}
+  m_Name: Wood_book_shelf_Gacha
+  m_EditorClassIdentifier: 
+  gachaName: Wooden Room Bookshelf
+  furnitureData: {fileID: 11400000, guid: ff86690eded71df489fb3d032e8cb9a4, type: 2}
+  characterData: {fileID: 0}
+  dropChance: 100
+  rarity: 1

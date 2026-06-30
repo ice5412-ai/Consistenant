@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff981fb2743db024ab23729d61eaa769, type: 3}
+  m_Name: Tile_table
+  m_EditorClassIdentifier: 
+  Key: White Table
+  Price: 800
+  Icon: {fileID: 21300000, guid: 49167fc040908b643b00929d6763b8d2, type: 3}
+  Size: {x: 2, y: 1, z: 2}
+  Prefab: {fileID: 2124015397983988342, guid: 6256fc3c12c1f2e40b13cf3e111322e3, type: 3}

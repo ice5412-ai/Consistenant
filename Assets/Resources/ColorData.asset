@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f1c8dc512db2d542893e8f8d7db9586, type: 3}
+  m_Name: ColorData
+  m_EditorClassIdentifier: 
+  Colors:
+    _serializedList:
+    - Key: Red
+      Value: {r: 1, g: 0, b: 0, a: 1}
+    - Key: Rose
+      Value: {r: 1, g: 0, b: 0.5019608, a: 1}
+    - Key: Magenta
+      Value: {r: 1, g: 0, b: 1, a: 1}
+    - Key: Violet
+      Value: {r: 0.5019608, g: 0, b: 1, a: 1}
+    - Key: Blue
+      Value: {r: 0, g: 0, b: 1, a: 1}
+    - Key: Azure
+      Value: {r: 0, g: 0.5019608, b: 1, a: 1}
+    - Key: Turquoise
+      Value: {r: 0, g: 0.8784314, b: 0.8784314, a: 1}
+    - Key: Aquamarine
+      Value: {r: 0, g: 1, b: 0.5019608, a: 1}
+    - Key: Green
+      Value: {r: 0, g: 1, b: 0, a: 1}
+    - Key: Chartreuse
+      Value: {r: 0.5019608, g: 1, b: 0, a: 1}
+    - Key: Turbo
+      Value: {r: 0.8784314, g: 0.8784314, b: 0, a: 1}
+    - Key: Orange
+      Value: {r: 1, g: 0.5019608, b: 0, a: 1}
+    - Key: Gray
+      Value: {r: 0.58431375, g: 0.58431375, b: 0.58431375, a: 1}

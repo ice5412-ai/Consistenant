@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 729237003c1eff8479809bc0712794c0, type: 3}
+  m_Name: ExerciseCharacterData
+  m_EditorClassIdentifier: 
+  Name: Exercise
+  Sprites:
+  - {fileID: 21300000, guid: 774393e29318858409c9d662b2a98d95, type: 3}
+  - {fileID: 21300000, guid: 9604db0c2e19dca4189c7e443f368925, type: 3}
+  Prefab: {fileID: 4977053695006744598, guid: 21ada8ba66bd3254eb5fe18f3b856b38, type: 3}

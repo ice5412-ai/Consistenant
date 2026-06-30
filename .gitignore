@@ -1,0 +1,37 @@
+# Unity Version Control
+.plastic/
+
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build files
+*.apk
+*.aab
+*.obb
+*.unitypackage
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
