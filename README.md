@@ -135,11 +135,7 @@ This result should be understood as a short-term research result from a disserta
 ## Tools
 
 * Unity
-* C#
-* Android
-* UX/UI Design
-* Research Survey
-* QA Testing
+* Photoshop / Illustrator
 
 ## Project Status
 
